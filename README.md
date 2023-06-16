@@ -2,6 +2,8 @@ Term Deposit Marketing
 ==============================
 
 This project explored and identify ways to improve the success rate for calls made to customers to subscribe for a term deposit product.
+![Term Deposit Summary](https://github.com/dorcas-1404/zG9X7jyU55stL1wI/assets/73675830/5117fae5-8c5a-46f7-b0db-c428370c3b6c)
+
 
 Project Organization
 ------------
